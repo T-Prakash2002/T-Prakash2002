@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning MERN Full Stack Developer from GUVI
 
-- 📫 How to reach me  prakasht1405@gmail.com
+- 📫 How to reach me at --> prakasht1405@gmail.com
 
 
 
