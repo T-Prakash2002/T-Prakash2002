@@ -4,5 +4,15 @@
 
 - 📫 How to reach me at --> prakasht1405@gmail.com
 
+- Angular,
+- Attention to Detail,
+- BASIC,
+- Clean, Collaborate,
+- Industry Trends,
+- Issues, Performance,
+- Software, Software Development,
+- Software Development Lifecycle,
+-  SQL, User Experience
+
 
 ![MERN STACK](./Mern.png)
