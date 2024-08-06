@@ -4,7 +4,6 @@
 
 - 📫 How to reach me at --> prakasht1405@gmail.com
 
-- Angular,
 - Attention to Detail,
 - BASIC,
 - Clean, Collaborate,
